@@ -1,0 +1,15 @@
+Feature,Description
+I/O Data Operations,Speed at which the process is issuing read and write I/O operations
+I/O Data Bytes,Speed at which the process is reading and writing bytes in I/O operations
+Number of subprocesses,Number of sub-processes that are currently active in a parent process
+Time on processor,"The total time, in seconds, that a process has been running"
+Disk Reading/sec,Speed of disk reading operations
+Disc Writing/sec,Speed of writing operations to disk
+Confirmed byte radius,The ratio of Memory/Bytes committed and Memory/Confirmation limit
+Pages Read/sec,Speed rate at which the disk was read in order to resolve hard page errors
+Pages Input/sec,Speed at which pages are written to disk to free up space in physical memory
+Page Errors/sec,This is the average number of pages with faults per second
+Bytes Sent,The rate at which bytes leave the browser’s HTTP requests
+Received Bytes (HTTP),Speed of bytes arriving to the browser’s HTTP responses
+Network packets sent,Speed of sending packets in the TCP protocol
+Network packets received,Packet reception speed over the TCP protocol
